@@ -1,0 +1,7 @@
+faire la segmentation 
+evaluer la pertinances de resultat
+verifier que ca marche bien 
+
+pourvoir visualizer le resultat sur les images 
+pas obliger de prendre tout le batch d'images
+ca march ou non?
